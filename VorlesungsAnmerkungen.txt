@@ -1,0 +1,31 @@
+= Einführung in die Neuroinformatik =
+Vorlesungsaufschreibe
+
+== Termin: 20180424 ==
+Inhalt: Seiten 31 - XX
+
+Seite: 43
+Anmerkung: 
+n Neuronen
+
+[img_01]
+
+[u^. (überpunktetes u) = Zeitlich integriert]
+
+u^._j(t) = lim_(t->t_n) ( u_i(t0) - u_j(t) ) / ( t_0 - t ) 
+zeitlich Ableitung
+
+u^._j(t) =  - u_j(t) + SUM^n_(i=1) ( c_(i,j) * y_i^( t - d_(i,j) )) + x_j(t)
+                       |                              e_j(t)          | 
+tau u^. = - u 
+        = u(t) = e^(-t/tau)
+tau> 0
+
+            [img_03]
+
+u^. = - u , u(t) = e^(-t)
+
+[img_02]
+
+Seite: 
+Anmerkung: 
