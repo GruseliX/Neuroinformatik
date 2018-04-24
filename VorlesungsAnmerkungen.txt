@@ -2,7 +2,7 @@
 Vorlesungsaufschreibe
 
 == Termin: 20180424 ==
-Inhalt: Seiten 31 - XX
+Inhalt: Seiten 31 - 52
 
 Seite: 43
 Anmerkung: 
@@ -27,5 +27,15 @@ u^. = - u , u(t) = e^(-t)
 
 [img_02]
 
-Seite: 
+Seite: 44
 Anmerkung: 
+roh = gedächtnisvariable 
+wird in unseren berechnungen meist vernachlässigt und auf 1 gesetzt.
+wir werden kein Gedächtnis einbauen.
+
+
+Seite: 45
+Anmerkung: 
+[img_04]
+
+
