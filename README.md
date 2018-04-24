@@ -1,2 +1,0 @@
-# Neuroinformatik
-Vorlesungsaufschreibe
